@@ -7,6 +7,6 @@ if array[index_number] == " "
 
   elsif array[index_number] != " "
   true
-  
+
   end
 end
